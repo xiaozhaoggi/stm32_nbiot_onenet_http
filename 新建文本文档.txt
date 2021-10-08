@@ -1,0 +1,18 @@
+所用传感器
+
+MQ131 臭氧
+	ADC   	PC3  ADC1_13
+
+SGP30 甲醛
+	SCL	PC10
+	SDA	PC11
+
+DHT11 温湿度
+	DATA	PB5
+
+
+GP2Y  PM2.5  
+	ADC   	PC5 ADC1_15
+	LED	PC12
+MQ7 一氧化碳
+	ADC 	PC2  ADC1_12
